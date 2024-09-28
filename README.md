@@ -28,6 +28,5 @@ This dashboard provides a comprehensive view to track sales growth, customer pat
 ✔️Index()Function : returns the value of a cell within a specific range based on the row and column numbers you provide.
 
 ✔️Match()Function: find the position of a specific value in a range.
-
      To combine INDEX with MATCH for dynamic lookups, where MATCH finds the row or column number and INDEX retrieves the corresponding value.
 
